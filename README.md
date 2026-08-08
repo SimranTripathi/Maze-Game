@@ -36,8 +36,9 @@ Maza-Game/
 
 
 
-_screenshot oF game here._
+#screenshot oF game here._
 <img width="744" height="782" alt="WhatsApp Image 2026-08-05 at 9 08 00 PM" src="https://github.com/user-attachments/assets/68f5ad57-2261-4c47-925b-6924ae25f0a1" />
+
 <img width="744" height="782" alt="WhatsApp Image 2026-08-05 at 9 08 00 PM" src="https://github.com/user-attachments/assets/80008f67-5466-4ec1-b7f0-37f47c85316a" />
 
 
