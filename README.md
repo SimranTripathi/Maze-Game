@@ -1,6 +1,6 @@
 # Maza Game
 
-A fun and interactive browser-based game developed using HTML, CSS, and JavaScript. The game provides an engaging user experience with responsive design and smooth gameplay.
+A fun and interactive browser-based game developed using Python, Algorithm, BFS, DFA. The game provides an engaging user experience with responsive design and smooth gameplay.
 
 ##  Features
 
