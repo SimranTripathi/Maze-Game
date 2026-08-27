@@ -9,6 +9,7 @@ A fun and interactive browser-based game developed using HTML, CSS, and JavaScri
 -  Fast and lightweight
 -  Mobile-friendly design
 -  Easy to play and restart
+-  Find path using bfs & dfs
 
 ##  Technologies Used
 
