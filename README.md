@@ -10,6 +10,7 @@ A fun and interactive browser-based game developed using Python, Algorithm, BFS,
 -  Mobile-friendly design
 -  Easy to play and restart
 -  Find path using bfs & dfs
+-  use algorithm of a A*
 
 ##  Technologies Used
 
