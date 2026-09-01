@@ -5,13 +5,14 @@ A fun and interactive browser-based game developed using Python, Algorithm, BFS,
 ##  Features
 
 -  Interactive gameplay
--  Attractive and responsive UI
--  Fast and lightweight
--  Mobile-friendly design
--  Easy to play and restart
--  Find path using bfs & dfs
--  use algorithm of a A*
+ - Attractive and responsive UI
+- Fast and lightweight
+- Mobile-friendly design
+- Easy to play and restart
+- Find paths using BFS and DFS algorithms
+- Efficient pathfinding using the A algorithm*
 
+  
 ##  Technologies Used
 
 - HTML5
