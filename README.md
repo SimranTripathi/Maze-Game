@@ -12,6 +12,7 @@ A fun and interactive browser-based game developed using Python, Algorithm, BFS,
 - Find paths using BFS and DFS algorithms
 - Efficient pathfinding using the A algorithm*
 
+
   
 ##  Technologies Used
 
@@ -51,6 +52,7 @@ Maza-Game/
 - Sound effects and background music
 - Scoreboard
 - Timer and animations
+- Fun activity
 
  Author
 
