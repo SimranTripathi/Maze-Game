@@ -49,16 +49,17 @@ Maza-Game/
 <img width="743" height="783" alt="WhatsApp Image 2026-08-05 at 10 39 20 PM" src="https://github.com/user-attachments/assets/96dbbbb5-4e81-47b4-b990-2d6971e43088" />
 
 
- Future Improvements
+## Future Improvements
 
-- Add multiple difficulty levels
-- Sound effects and background music
-- Scoreboard
-- Timer and animations
-- Fun activity
+* Introduce multiple difficulty levels for different players.
+* Add sound effects and background music to make the game more engaging.
+* Implement a scoreboard to track and display player scores.
+* Add a timer and smooth animations for a better gaming experience.
+* Include more fun and interactive activities to improve user engagement.
 
- Author
+## Author
 
-Simran Tripathi
+**Simran Tripathi**
+
 
 ⭐ If you like this project, don't forget to star the repository!
