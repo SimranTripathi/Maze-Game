@@ -1,6 +1,6 @@
 # Maza  Game
 
-A fun and interactive **browser-based game** developed using **Python and pathfinding algorithms such as BFS, DFS, and A***. The game provides an engaging experience with a responsive interface, smooth navigation, and real-time pathfinding visualization.
+A fun and interactive **browser-based game** developed using **Python and pathfinding algorithms such as BFS, DFS, and A***. The game provides an engaging experience with a responsive interface, smooth navigation, and real-time pathfinding visualization, pattern.
 
 ## Features
 
