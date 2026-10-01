@@ -8,6 +8,7 @@ A fun and interactive **browser-based game** developed using **Python and pathfi
 * Attractive, user-friendly, and responsive interface
 * Fast and lightweight performance
 * Mobile-friendly design for different screen sizes
+* different pattern to find
 * Simple gameplay with easy restart functionality
 * Pathfinding using **BFS (Breadth-First Search)** and **DFS (Depth-First Search)**
 * Efficient shortest-path navigation using the **A*** algorithm
