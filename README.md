@@ -16,6 +16,7 @@ A fun and interactive **browser-based game** developed using **Python and pathfi
 * Smooth player movement and navigation
 * Demonstrates practical applications of **graph traversal and pathfinding algorithms**
 * Helps visualize and understand how different pathfinding algorithms work
+* improve pattern 
 
 
   
