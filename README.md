@@ -7,16 +7,16 @@ A fun and interactive **browser-based game** developed using **Python and pathfi
 * Interactive and engaging gameplay experience
 * Attractive, user-friendly, and responsive interface
 * Fast and lightweight performance
-* Mobile-friendly design for different screen sizes
-* different pattern to find
+* Mobile-friendly design compatible with different screen sizes
+* Multiple patterns and challenges for players to find
 * Simple gameplay with easy restart functionality
 * Pathfinding using **BFS (Breadth-First Search)** and **DFS (Depth-First Search)**
 * Efficient shortest-path navigation using the **A*** algorithm
 * Real-time visualization of calculated paths
 * Smooth player movement and navigation
-* Demonstrates practical applications of **graph traversal and pathfinding algorithms**
-* Helps visualize and understand how different pathfinding algorithms work
-* improve pattern 
+* Demonstrates practical applications of graph traversal and pathfinding algorithms
+* Helps users visualize and understand how different pathfinding algorithms work
+* Improves pattern-recognition and problem-solving skills
 
 
   
