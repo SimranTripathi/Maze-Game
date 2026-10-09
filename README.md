@@ -12,6 +12,7 @@ A fun and interactive **browser-based game** developed using **Python and pathfi
 * Simple gameplay with easy restart functionality
 * Pathfinding using **BFS (Breadth-First Search)** and **DFS (Depth-First Search)**
 * Efficient shortest-path navigation using the **A*** algorithm
+* ert
 * Real-time visualization of calculated paths
 * Smooth player movement and navigation
 * Demonstrates practical applications of graph traversal and pathfinding algorithms
